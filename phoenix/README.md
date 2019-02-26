@@ -4,6 +4,8 @@ Simply run Apache Phoenix with a `file://` based HBase, with a query server.
 
 Easy to manage and easy to start.
 
+Try with `docker pull tsingjyujing/tenori-phoenix:release-1.0` to start now! 
+
 ## How to build
 
 You can use
